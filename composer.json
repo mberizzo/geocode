@@ -1,5 +1,5 @@
 {
-    "name": "nkootstra/geocode",
+    "name": "mberizzo/geocode",
     "description": "PHP geocoding for laravel 5 & 5.1 using Google API",
     "keywords": ["beasley", "sapioweb", "laravel", "service providers", "api", "geocode", "formatted address", "country", "google", "service provider"],
     "homepage": "http://localhost",
